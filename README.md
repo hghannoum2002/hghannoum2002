@@ -10,9 +10,9 @@
 - **Langages** : C, C++, Python, SystemVerilog, SQL, Assembly (ARM, RISC-V)  
 - **Systèmes embarqués** : STM32, FreeRTOS, Embedded Linux (Yocto)  
 - **Outils FPGA** : Vivado, ModelSim  
-- **Protocoles** : SPI, I2C, UART, CAN, BLE, TCP/IP, HTTP, MQTT  
+- **Protocoles** : Lora, SPI, I2C, UART, CAN, BLE, TCP/IP, HTTP, MQTT  
 
----
+--- 
 
 ## 💼 Expérience & Projets  
 - 🔦 **Simulateur d’aube sur STM32** – LEDs RGB, capteurs ToF, CAN, Bluetooth, OLED  
